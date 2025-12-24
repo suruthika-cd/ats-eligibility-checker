@@ -1,1 +1,16 @@
+Matched Skills:
+- Python
+- SQL
+- NLP
+
+Missing Skills:
+- Machine Learning
+- Git
+
+Eligibility Status:
+Not Eligible
+
+This output demonstrates how the system compares
+candidate skills with job requirements and highlights
+matched and missing skills clearly.
 
